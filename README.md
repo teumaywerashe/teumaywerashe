@@ -14,7 +14,7 @@
 
 ##  Professional Summary
 
-Software Engineer and **Full-Stack Developer** with hands-on experience building scalable web applications using the **MERN stack**.
+Software Engineer student at AAiT and **Full-Stack Developer** with hands-on experience building scalable web applications using the **MERN stack**.
 
 Experienced in designing **RESTful APIs, secure authentication systems, and responsive user interfaces**. Passionate about writing clean code, solving technical challenges, and building **high-performance startup-ready software solutions**.
 
