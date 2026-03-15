@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Teumay Werashe**
 
-### Software Engineer | Full-Stack Developer | MERN Stack Developer
+### Software Engineer | AI Enthusiast | Full-Stack Developer
 
 📍 Addis Ababa, Ethiopia
 📧 [teumay21@gmail.com](mailto:teumay21@gmail.com)
