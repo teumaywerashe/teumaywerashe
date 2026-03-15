@@ -2,8 +2,8 @@
 
 ### Software Engineer — Full-Stack Developer
 
-📍 Addis Ababa, Ethiopia
-📞 +251 952 731 011
+ Addis Ababa, Ethiopia
+ +251 952 731 011
 📧 [teumay21@gmail.com](mailto:teumay21@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 Software Engineer and **Full-Stack Developer** with hands-on experience building scalable web applications using the **MERN stack**.
 
@@ -20,7 +20,7 @@ Experienced in designing **RESTful APIs, secure authentication systems, and resp
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages & Frameworks
 
@@ -62,9 +62,9 @@ Experienced in designing **RESTful APIs, secure authentication systems, and resp
 
 ---
 
-# 📌 Selected Projects
+#  Selected Projects
 
-### 🎓 Resource Hub – University Academic Platform
+###  Resource Hub – University Academic Platform
 
 Full-Stack Web Application
 
@@ -74,7 +74,7 @@ Full-Stack Web Application
 
 ---
 
-### 🏫 Campus Tour Assistance System
+###  Campus Tour Assistance System
 
 Web Application
 
@@ -84,7 +84,7 @@ Web Application
 
 ---
 
-### 🍔 Food Delivery Application
+###  Food Delivery Application
 
 MERN Stack
 
@@ -94,7 +94,7 @@ MERN Stack
 
 ---
 
-### 🛒 E-Commerce Platform
+###  E-Commerce Platform
 
 Web Application
 
@@ -104,7 +104,7 @@ Web Application
 
 ---
 
-### 🏢 Campus Facility Management System
+###  Campus Facility Management System
 
 Web Application
 
@@ -114,7 +114,7 @@ Web Application
 
 ---
 
-### 🌐 Portfolio Website
+###  Portfolio Website
 
 • Built using **React.js and Framer Motion**
 • Integrated **EmailJS** for contact form functionality
@@ -122,7 +122,7 @@ Web Application
 
 ---
 
-# 🎓 Education
+#  Education
 
 **B.Sc. in Software Engineering**
 Addis Ababa University — Ethiopia
@@ -139,7 +139,7 @@ Relevant Coursework:
 
 ---
 
-# 🌍 Languages
+#  Languages
 
 English — Fluent
 Amharic — Native
@@ -147,7 +147,7 @@ Tigrigna — Native
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=teumaywerashe\&show_icons=true\&theme=github_dark)
 
@@ -155,4 +155,4 @@ Tigrigna — Native
 
 ---
 
-⭐ From [Teumay Werashe](https://github.com/teumaywerashe)
+ From [Teumay Werashe](https://github.com/teumaywerashe)
