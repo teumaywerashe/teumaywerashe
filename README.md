@@ -149,10 +149,10 @@ Tigrigna — Native
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=teumaywerashe\&show_icons=true\&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teumaywerashe\&layout=compact\&theme=github_dark)
 
 ---
 
-⭐ From [Teumay Werashe](https://github.com/YOUR_USERNAME)
+⭐ From [Teumay Werashe](https://github.com/teumaywerashe)
