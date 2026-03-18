@@ -12,14 +12,14 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm a **Software Engineering** student at AAiT and **Full-Stack Developer** with hands-on experience building scalable web applications.
 I enjoy designing **RESTful APIs, secure authentication systems, and responsive user interfaces**. I'm passionate about **clean code, technical problem-solving, and building high-performance startup technology solutions**.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Languages
 
@@ -65,7 +65,7 @@ I enjoy designing **RESTful APIs, secure authentication systems, and responsive 
 
 ---
 
-# 🌍 Languages
+#  Languages
 
 English — Fluent
 Amharic — Native
