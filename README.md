@@ -7,8 +7,8 @@
 📞 +251 952 731 011
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/teu-18141a308)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge\&logo=vercel)](https://e-commerce-1-rm56.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/teu-18141a308)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge\&logo=vercel)](https://portifolio-o3gs.onrender.com/)
 
 ---
 
