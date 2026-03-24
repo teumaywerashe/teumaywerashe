@@ -21,12 +21,6 @@ I enjoy designing **RESTful APIs, secure authentication systems, and responsive 
 
 #  Tech Stack
 
-## Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge\&logo=css3)
-
 ---
 
 ## Frameworks & Libraries
