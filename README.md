@@ -1,12 +1,8 @@
-# 👋 Hi, I'm **Teumay Werashe**
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+ Hi,+I'm+**Teumay Werashe**&font=Fira%20Code&center=false&width=500&height=50&color=00F7FF&vCenter=true&size=22" />
-</h1>
+<h1 align="left">👋 Hi, I'm <b>Teumay Werashe</b></h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI+Enthusiast;Full-Stack+Developer&font=Fira%20Code&center=false&width=500&height=50&color=00F7FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Software+Engineer;AI+Enthusiast&font=Fira%20Code&center=false&width=500&height=50&color=00F7FF&vCenter=true&size=22" />
 </p>
-
 📍 Addis Ababa, Ethiopia
 📧 [teumay21@gmail.com](mailto:teumay21@gmail.com)
 📞 +251 952 731 011
