@@ -1,4 +1,7 @@
 # 👋 Hi, I'm **Teumay Werashe**
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋 + Hi, + I'm + **Teumay Werashe**&font=Fira%20Code&center=false&width=500&height=50&color=00F7FF&vCenter=true&size=22" />
+</h1>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI+Enthusiast;Full-Stack+Developer&font=Fira%20Code&center=false&width=500&height=50&color=00F7FF&vCenter=true&size=22" />
