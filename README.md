@@ -6,8 +6,10 @@
 </p>
 
 
-📍 Addis Ababa, Ethiopia
-📧 [teumay21@gmail.com](mailto:teumay21@gmail.com)
+📍 Addis Ababa, Ethiopia 
+
+📧 [teumay21@gmail.com](mailto:teumay21@gmail.com) 
+
 📞 +251 952 731 011
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/teumaywerashe/)
