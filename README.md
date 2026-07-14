@@ -66,7 +66,9 @@ I enjoy designing **RESTful APIs, secure authentication systems, and responsive 
 #  Languages
 
 English — Fluent
+
 Amharic — Native
+
 Tigrigna — Native
 
 ---
