@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/teumaywerashe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/teu-18141a308)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge\&logo=vercel)](https://portifolio-o3gs.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge\&logo=vercel)](https://portifolio2-q2o3.onrender.com/)
 
 ---
 
