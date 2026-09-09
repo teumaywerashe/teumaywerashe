@@ -17,9 +17,12 @@
 ---
 
 #  About Me
-
-I'm a **Software Engineer** and **Full-Stack Developer** with hands-on experience building scalable web applications.
-I enjoy designing **RESTful APIs, secure authentication systems, and responsive user interfaces**. I'm passionate about **clean code, technical problem-solving, and building high-performance startup technology solutions**.
+🌟 About Me:
+Living in: 🇪🇹 Ethiopia
+Studying: 🎓 Software Engineering at Addis Ababa University
+Working with: 💻 JavaScript, TypeScript, React, Next.js & NestJS
+Learning: 🚀 Full-Stack Development & AI/ML
+Looking to collaborate: 🤝 In the world of Technology
 
 ---
 
