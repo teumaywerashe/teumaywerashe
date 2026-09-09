@@ -15,14 +15,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge\&logo=vercel)](https://portifolio2-q2o3.onrender.com/)
 
 ---
+### 🌟 About Me:
 
-#  About Me
-🌟 About Me:
-Living in: 🇪🇹 Ethiopia
-Studying: 🎓 Software Engineering at Addis Ababa University
-Working with: 💻 JavaScript, TypeScript, React, Next.js & NestJS
-Learning: 🚀 Full-Stack Development & AI/ML
-Looking to collaborate: 🤝 In the world of Technology
+- **Living in:** 🇪🇹 Ethiopia
+- **Studying:** 🎓 Software Engineering at Addis Ababa University
+- **Working with:** 💻 JavaScript, TypeScript, React, Next.js & NestJS
+- **Learning:** 🚀 Full-Stack Development & AI/ML
+- **Looking to collaborate:** 🤝 In the world of Technology
 
 ---
 
