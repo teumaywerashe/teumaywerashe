@@ -19,8 +19,7 @@
 
 - **Living in:** 🇪🇹 Ethiopia
 - **Studying:** 🎓 Software Engineering at Addis Ababa University
-- **Working with:** 💻 JavaScript, TypeScript, React, Next.js, NestJS & Python
-- **Learning:** 🚀 Full-Stack Development & AI/ML
+- **Working with:** 💻 JavaScript, TypeScript, React, Next.js, NestJS & Django, FastAPI, React Native, Flutter
 - **Looking to collaborate:** 🤝 In the world of Technology
 
 ---
